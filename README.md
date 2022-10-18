@@ -2,7 +2,7 @@
 - I am a pharmacist by profession.
 - 👀 I’m interested in innovation and problem solving. 
 - 🌱 I’m currently learning software engineering at the ALX.
-- 💞️ I’m looking to collaborate on projects that need technicl expertise in the medical field
+- 💞️ I’m looking to collaborate on projects that need technical expertise in the medical field
 - 📫 Reach me on +256787098078 or on whatsapp +256758540254 and by email: nakugobamahmood@gmail.com
 
 <!---
